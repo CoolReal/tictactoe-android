@@ -1,0 +1,12 @@
+{
+   "defaultProject": "TicTacToe",
+   "projects": {
+      "TicTacToe": {
+         "name": "TicTacToe",
+         "integrations": {
+            "capacitor": {}
+         },
+         "type": "angular"
+      }
+   }
+}
