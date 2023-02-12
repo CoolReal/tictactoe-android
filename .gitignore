@@ -44,6 +44,6 @@ Thumbs.db
 .angular
 .vscode
 
-www
-android
-icons
+/www/
+/android/
+/icons/
