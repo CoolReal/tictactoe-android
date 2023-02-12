@@ -10,8 +10,6 @@ Uses Ionic Capacitor for Android app building.
 1. `npm install`
 
 
-2. Ready to run locally at http://localhost:4200
-
 ## Ionic Capacitor
 
 Latest unsigned APK can be found [here](apk).
@@ -19,6 +17,7 @@ Latest unsigned APK can be found [here](apk).
 Generate app icon and splash screen: `npx capacitor-assets generate`
 
 Build app: `ionic capacitor build` (requires Android Studio)
+
 ## Web Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
