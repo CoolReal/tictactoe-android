@@ -5,18 +5,22 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 Simple TicTacToe game for web and Android.
 Uses Ionic Capacitor for Android app building.
 
-## Setup
+## Initial Setup
 
 1. `npm install`
 
+## New Android Build
 
-## Ionic Capacitor
+1. `ionic capacitor build` initial build required to generate icons
 
-Latest unsigned APK can be found [here](apk).
 
-Generate app icon and splash screen: `npx capacitor-assets generate`
+2. `npx capacitor-assets generate` to generate the app icon and splash screen
 
-Build app: `ionic capacitor build` (requires Android Studio)
+
+3. Build APK using Android Studio
+
+
+4. Latest APK can be found [here](android/app/build/outputs/apk/debug)
 
 ## Web Development server
 
